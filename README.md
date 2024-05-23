@@ -1,2 +1,2 @@
 This is a HotelBooking website.
-# House Rent
+# House Rent Website
